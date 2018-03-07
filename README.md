@@ -1,3 +1,8 @@
+
+#This fork aims at implementing reviews and contact-form video upload feature using RecordRTC
+#Will be using PHP-Implementation
+#Future implementation as wordpress plugin.
+
 # RecordRTC: WebRTC JavaScript Library for Audio+Video+Screen Recording
 
 # Demo: https://www.webrtc-experiment.com/RecordRTC/
